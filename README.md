@@ -1,6 +1,6 @@
-# Air-Quality-Prediction-ML
-Air Quality Index Prediction using five Machine Learning regression models
 # Air Quality Prediction Using Machine Learning 🌍
+Air Quality Index Prediction using five Machine Learning regression models
+
 
 ## Project Overview
 
